@@ -6,7 +6,7 @@
 
 - Stage04_meta04_path_planning (1).launch : Este es el documento el cual corre la simulación.
 
-- Pot_fields_version2(1).py : En él, se utilizan los campos potenciales artificiales.
+- Pot_fields_version2(1).py : En él se utilizan los campos potenciales artificiales.
 
 - Movimiento(1).py : Este archivo estima las posiciones de escaneo del robot.
 
